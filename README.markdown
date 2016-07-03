@@ -2,7 +2,7 @@
 
 [Chapter 1: Introduction](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/01-introduction)
 
-[Chapter 2: Fundamental Data Types]
+[Chapter 2: Fundamental Data Types](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/02-fundamental-data-types/)
 
 [Chapter 3: Decisions]
 
