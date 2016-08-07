@@ -9,4 +9,5 @@ src/*-objects/*/*
 !src/early-objects/*/p_*
 !src/early-objects/*/e_*
 src/*-objects/*/*_NC
+src/*-objects/*/*_NC.java
 !src/late-objects/15-the-java-collections-framework/utils
