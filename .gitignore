@@ -4,7 +4,7 @@ big-java.iml
 out
 
 src/opt
-src/*-objects/*/*
+src/*-objects/*/**
 !src/late-objects/*/p_*
 !src/early-objects/*/p_*
 !src/early-objects/*/e_*
