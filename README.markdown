@@ -4,11 +4,11 @@
 
 [Chapter 2: Fundamental Data Types](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/02-fundamental-data-types/)
 
-[Chapter 3: Decisions]
+[Chapter 3: Decisions](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/03-decisions)
 
-[Chapter 4: Loops]
+[Chapter 4: Loops](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/04-loops)
 
-[Chapter 5: Methods]
+[Chapter 5: Methods](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/05-methods)
 
 [Chapter 6: Arrays and Array Lists]
 
