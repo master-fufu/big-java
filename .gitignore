@@ -10,3 +10,4 @@ src/*-objects/*/*
 !src/early-objects/*/e_*
 src/*-objects/*/*_NC
 !src/late-objects/15-the-java-collections-framework/utils
+!/src/early-objects/10-interfaces/BankAccount/
