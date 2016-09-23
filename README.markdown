@@ -10,7 +10,7 @@
 
 [Chapter 5: Methods](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/05-methods)
 
-[Chapter 6: Arrays and Array Lists]
+[Chapter 6: Arrays and Array Lists](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/06-arrays-and-array-lists)
 
 [Chapter 7: Input/Output and Exception Handling]
 
