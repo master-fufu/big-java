@@ -1,0 +1,2 @@
+First column average:          1.14
+Second column average:         2.49
