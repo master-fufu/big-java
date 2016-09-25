@@ -1,0 +1,19 @@
+public class Chapter_07_02_01_ReadingWords {
+
+    public static void main(String[] args) throws FileNotFoundException
+    {
+        File inputFile = new File
+                ("src/bigJava_07_InputOutputAndExceptionHandling/inputs.txt");
+        Scanner in = new Scanner(inputFile);
+
+        in.useDelimiter("[^A-Za-z]+");
+
+        while (in.hasNext())
+        {
+            String input = in.next();
+            System.out.println(input);
+        }
+
+        in.close();
+    }
+}
