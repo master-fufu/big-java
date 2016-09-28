@@ -12,7 +12,7 @@
 
 [Chapter 6: Arrays and Array Lists](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/06-arrays-and-array-lists)
 
-[Chapter 7: Input/Output and Exception Handling]
+[Chapter 7: Input/Output and Exception Handling](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/07-input-output-and-exception-handling)
 
 [Chapter 8: Objects and Classes]
 
@@ -25,5 +25,7 @@
 [Chapter 3: Implementing Classes]
 
 [Chapter 10: Interfaces]
+
+[Chapter 16: Basic Data Structures](https://github.com/ifqthenp/big-java/tree/master/src/early-objects/16-basic-data-structures)
 
 
