@@ -14,9 +14,9 @@
 
 [Chapter 7: Input/Output and Exception Handling](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/07-input-output-and-exception-handling)
 
-[Chapter 8: Objects and Classes]
+[Chapter 8: Objects and Classes](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/08-objects-and-classes)
 
-[Chapter 9: Inheritance and Interfaces]
+[Chapter 9: Inheritance and Interfaces](https://github.com/ifqthenp/big-java/tree/master/src/late-objects/09-inheritance-and-interfaces)
 
 ### Big Java: Early Objects
 
